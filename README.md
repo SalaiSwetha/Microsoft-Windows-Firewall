@@ -4,7 +4,7 @@
 
 1.Click the Windows Start button. and then select Windows Security.
 
-<img src="101(1).png">
+<img src="101 (1).png">
 
 
 Click Firewall & network protection.
