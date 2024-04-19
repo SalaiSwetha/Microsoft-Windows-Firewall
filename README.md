@@ -182,6 +182,11 @@ Double-click this rule.
 
 <img src="213.png">
 
+
+
 14.Now you will see that a green checkmark appears next to the first rule indicating that the rule allowing communication is enabled. A circle with a line through it appears next to the second rule indicating that the rule blocking communication is enabled.
 
 <img src="214.png">
+
+
+<a href="https://github.com/SalaiSwetha/Microsoft-Windows-Defender-and-Firewall-.git"> **Back to Main Page** </a>
